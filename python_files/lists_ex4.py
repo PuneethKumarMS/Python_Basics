@@ -4,4 +4,4 @@ frameworks = stack
 frameworks.append("React")
 stack = ["Go", "Rust"]
 
-print(frameworks)
+print(f"this is the {frameworks}")
