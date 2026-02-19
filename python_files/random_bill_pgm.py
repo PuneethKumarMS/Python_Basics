@@ -1,10 +1,10 @@
-'''import random
+import random
 name = input("Enter the names separated by comma: ")
 name_split = name.split(",")
 length = len(name_split)
 choices = random.randint(0,length-1)
 print(name_split)
-print(f"{name_split[choices]} will pay the bill")'''''
+print(f"{name_split[choices]} will pay the bill")
 
        #or
 
