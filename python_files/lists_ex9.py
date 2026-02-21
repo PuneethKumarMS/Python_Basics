@@ -7,6 +7,3 @@ c.append(5)
 
 print(a)
 print(c)
-
-
-
