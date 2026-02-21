@@ -1,8 +1,8 @@
-movies = ["Inception", "Interstellar", "Batman"]
-log = {}
+numbers = [1, 3, 5, -2, 10]
+squares = []
 
-for index, movie in enumerate(movies, 1):
-    
-    log[index] = movie
-    
-print(log)
+for i in numbers:
+    sqaure = i ** 2
+    squares.append(sqaure)
+
+print(squares)
