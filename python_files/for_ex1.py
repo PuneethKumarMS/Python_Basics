@@ -1,4 +1,3 @@
-
 numbers = [1, 2, 4, 11, -2, 0, 85]
 
 for i in numbers:
