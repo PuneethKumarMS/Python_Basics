@@ -15,7 +15,3 @@ for number in num_list:
     if number  > maximum:
         maximum = number
 print(f"The maximum number is : {maximum}")
-
-
-
-    
