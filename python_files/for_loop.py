@@ -4,5 +4,4 @@ squares = []
 for i in numbers:
     sqaure = i ** 2
     squares.append(sqaure)
-
 print(squares)
